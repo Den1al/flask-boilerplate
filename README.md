@@ -2,6 +2,9 @@
 
 ##### Version: 0.1
 
+## Author
+[Daniel Abeles](https://twitter.com/Daniel_Abeles)
+
 ## About
 
 For a long time I created my Flask application from scratch or assemble it from
