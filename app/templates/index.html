@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+<!-- Define a title -->
+{% block title %} Home {% endblock %}
+
+<!-- Main Body -->
+{% block body %}
+<div class="container">
+    <h1>Home Page</h1>
+    <p>Welcome {{ g.user.email }}</p>
+</div>
+
+{% endblock %}
