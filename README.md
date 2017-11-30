@@ -24,9 +24,9 @@ To setup the application follow this steps:
 
 ### Create a virtual environment
 
-* `pyenv virtualenv venv`
-* `pyenv activate venv`
-* `pip install -r requirements.txt`
+* ```pyenv virtualenv venv```
+* ```pyenv activate venv```
+* ```pip install -r requirements.txt```
 
 ### Configuration
 
