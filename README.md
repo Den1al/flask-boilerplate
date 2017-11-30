@@ -46,8 +46,10 @@ For more information visit the
 
 ### Run
 
-1. python manage.py createdb
-2. python manage.py runserver
+```bash
+python manage.py createdb
+python manage.py runserver
+```
 
 ## Credits
 
