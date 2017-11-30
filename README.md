@@ -36,6 +36,9 @@ If captcha is desired - please set the following fields in `config.py`:
 2. `RECAPTCHA_SITE_KEY`
 3. `RECAPTCHA_SECRET_KEY`
 
+For more information visit the
+[documentation](https://developers.google.com/recaptcha/docs/verify)
+
 ### Run
 
 1. python manage.py createdb
