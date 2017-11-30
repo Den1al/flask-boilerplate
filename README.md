@@ -7,7 +7,7 @@
 
 ## About
 
-For a long time I created my Flask application from scratch or assemble it from
+For a long time I created my Flask applications from scratch or assembled them from
 previous pieces of code. Therefore, I created this boilerplate that will be the
 codebase for every Flask app that I'll produce in the future. Some of the parts
 in this boilerplate are originated from various code bases, therefore they are
@@ -15,21 +15,23 @@ credited in the Credits section.
 
 ## Features
 
-* Login Mangements
+* Login Management
 * Captcha
-* API blueprint
+* API blueprints
 * App factory
-* Database
+* Database support
 
 ## How-To
 
-To setup the application follow this steps:
+To setup the application follow these steps:
 
 ### Create a virtual environment
 
-* ```pyenv virtualenv venv```
-* ```pyenv activate venv```
-* ```pip install -r requirements.txt```
+```bash
+pyenv virtualenv venv
+pyenv activate venv
+pip install -r requirements.txt
+```
 
 ### Configuration
 
