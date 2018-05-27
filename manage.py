@@ -4,8 +4,6 @@ from app import create_app, db
 
 manager = Manager(create_app)
 
-def lala():
-    x = 12;
 
 @manager.command
 def createdb(drop_first=False):
